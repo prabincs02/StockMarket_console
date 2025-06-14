@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5478c50c-06fa-4a5a-a51d-7c53b5b4a7dd" name="Changes" comment="" />
+    <list default="true" id="5478c50c-06fa-4a5a-a51d-7c53b5b4a7dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/com/prabin/stockapp/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/com/prabin/stockapp/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/src/com/prabin/stockapp/service/Userservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/src/com/prabin/stockapp/service/Userservice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +51,26 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prabin.stockapp.Main" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prabin.stockapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5478c50c-06fa-4a5a-a51d-7c53b5b4a7dd" name="Changes" comment="" />

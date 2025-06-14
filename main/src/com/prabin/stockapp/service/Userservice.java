@@ -6,6 +6,7 @@ import com.prabin.stockapp.repository.Datastore;
 public class Userservice {
 
     public User login(String username){
+
         return Datastore.users.get(username);
     }
     public boolean register(String username,double balance){
